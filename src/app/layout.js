@@ -21,7 +21,7 @@ export const metadata = {
     description: "A simple blog built with Next.js",
     type: "website",
     url: "https://next-comments-postgres.vercel.app/",
-    image: "https://next-comments-postgres.vercel.app/og-image.png",
+    image: "https://next-comments-postgres.vercel.app/sloth.jpg",
   },
 };
 

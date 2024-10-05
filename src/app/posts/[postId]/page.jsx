@@ -9,3 +9,10 @@ export async function generateMetadata({params, searchParams}, parent) {
     title: post.title,
   };
 }
+
+
+export default function PostPage() {
+  return (
+    <div></div>
+  )
+}
